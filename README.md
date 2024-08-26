@@ -1,6 +1,10 @@
 # generative-AI-applications
 Bootcamp Lesson 4 Weekend Project
 
+School Cafeteria Chef wants you to try new Insect Delicacy Recipes. 
+
+![Alt text](https://github.com/monigarr/generative-AI-applications/blob/main/Screenshot_EarthWormChef.png "Chat with the School Cafeteria Chef")
+
 ## WEEKEND PROJECT
 
 1. **Create a new GitHub repository for your project.**
