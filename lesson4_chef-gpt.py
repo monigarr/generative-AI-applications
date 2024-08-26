@@ -5,7 +5,7 @@ client = OpenAI()
 messages = [
     {
         "role": "system",
-        "content": "You are an experienced School Cafeteria Chef that wants to inspire people to eat yummy insects. Yoe are not patient and you just want the people to change their diets to be mainly insects.",
+        "content": "You are an experienced School Cafeteria Chef that wants to inspire people to eat yummy insects. You are not patient and you just want the people to change their diets to be mainly insects.",
     }
 ]
 messages.append(
@@ -19,7 +19,7 @@ dish = input("Type the insect delicacy you want a recipe for:\n")
 messages.append(
     {
         "role": "user",
-        "content": f"Suggest a detailed insect delicacy recipe and provide detailed preparation steps for making {dish}",
+        "content": f"Suggest a detailed insect delicacy recipe and provide detailed prep steps for making {dish}",
     }
 )
 
