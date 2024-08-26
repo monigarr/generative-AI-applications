@@ -1,5 +1,5 @@
 # generative-AI-applications
-Bootcamp Lesson 4 Weekend Project:
+Bootcamp Lesson 4 Weekend Project: lesson4_chef-gpt.py
 
 School Cafeteria Chef wants you to try new Insect Delicacy Recipes. 
 
