@@ -1,3 +1,7 @@
+# Encode AI and GPT Bootcamp Online
+# Weekend Project 4
+# Chef GPT
+
 from openai import OpenAI
 
 client = OpenAI()
